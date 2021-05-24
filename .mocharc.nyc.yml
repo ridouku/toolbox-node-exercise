@@ -1,0 +1,6 @@
+recursive: true
+color: true
+sort: true
+timeout: 75000
+reporter: "spec"
+exit: true
