@@ -9,7 +9,6 @@ node_modules
 # Temp files
 .envrc
 *.js
-!src/handler/completeValidateToken.js
 !webpack.config.js
 !.serverless_plugins/**/*.js
 .env
