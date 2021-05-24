@@ -8,7 +8,6 @@ node_modules
 
 # Temp files
 .envrc
-*.js
 !webpack.config.js
 !.serverless_plugins/**/*.js
 .env
