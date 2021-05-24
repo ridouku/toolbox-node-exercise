@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm run dev`
 
 Runs the app in the development mode.\
-Server runs in port 4000 by default
+Server runs on port 4000 by default
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
